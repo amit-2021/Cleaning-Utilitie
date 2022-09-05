@@ -1,0 +1,14 @@
+E:\amit\amit 30-02-2022\project\CleanFile exe\ClearTempFiles\ClearTempFiles\bin\Debug\ClearTempFiles.exe.config
+E:\amit\amit 30-02-2022\project\CleanFile exe\ClearTempFiles\ClearTempFiles\bin\Debug\ClearTempFiles.exe
+E:\amit\amit 30-02-2022\project\CleanFile exe\ClearTempFiles\ClearTempFiles\bin\Debug\ClearTempFiles.pdb
+E:\amit\amit 30-02-2022\project\CleanFile exe\ClearTempFiles\ClearTempFiles\obj\Debug\ClearTempFiles.csprojAssemblyReference.cache
+E:\amit\amit 30-02-2022\project\CleanFile exe\ClearTempFiles\ClearTempFiles\obj\Debug\ClearTempFiles.csproj.CoreCompileInputs.cache
+E:\amit\amit 30-02-2022\project\CleanFile exe\ClearTempFiles\ClearTempFiles\obj\Debug\ClearTempFiles.exe
+E:\amit\amit 30-02-2022\project\CleanFile exe\ClearTempFiles\ClearTempFiles\obj\Debug\ClearTempFiles.pdb
+C:\Users\Dell\Downloads\ClearTempFiles\ClearTempFiles\ClearTempFiles\bin\Debug\ClearTempFiles.exe.config
+C:\Users\Dell\Downloads\ClearTempFiles\ClearTempFiles\ClearTempFiles\bin\Debug\ClearTempFiles.exe
+C:\Users\Dell\Downloads\ClearTempFiles\ClearTempFiles\ClearTempFiles\bin\Debug\ClearTempFiles.pdb
+C:\Users\Dell\Downloads\ClearTempFiles\ClearTempFiles\ClearTempFiles\obj\Debug\ClearTempFiles.csprojAssemblyReference.cache
+C:\Users\Dell\Downloads\ClearTempFiles\ClearTempFiles\ClearTempFiles\obj\Debug\ClearTempFiles.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Downloads\ClearTempFiles\ClearTempFiles\ClearTempFiles\obj\Debug\ClearTempFiles.exe
+C:\Users\Dell\Downloads\ClearTempFiles\ClearTempFiles\ClearTempFiles\obj\Debug\ClearTempFiles.pdb
